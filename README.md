@@ -1,1 +1,2 @@
-# 7DaysOfCode---L-gica-JS
+# 7DaysOfCode-Lógica-JS
+Actualización del desafío de 7 días
